@@ -5,4 +5,10 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="Separator">
+      <HintPath>D:\VSProjects\ArrayListApp\Separator\bin\Debug\netcoreapp3.1\Separator.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
